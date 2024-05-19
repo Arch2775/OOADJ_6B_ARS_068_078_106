@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Flight Reservation System Readme
 
 **Description:**
@@ -19,3 +20,10 @@ This project is a Flight Reservation System implemented using Java Spring Boot M
 2. Set up the MySQL database and configure the application.properties file with the database connection details.
 3. Build and run the project using Maven or your preferred IDE.
 4. Access the application through the specified URL and start exploring the flight reservation functionalities.
+=======
+# OOADJ_6B_ARS_068_078_106
+OOADJ project- Airline Reservation System (MVC)
+
+
+The Airline Reservation System is a comprehensive application developed in Java, employing the Model-View-Controller (MVC) architecture to ensure robust management and scalability. This system is designed to streamline the process of booking flights for passengers and to provide administrators with effective tools to manage flight schedules and details.
+>>>>>>> 82461cfbf7214f4c8d2340fa0fae89456b374b98
