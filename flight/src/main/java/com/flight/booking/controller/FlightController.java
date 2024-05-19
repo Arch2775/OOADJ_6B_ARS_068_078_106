@@ -37,6 +37,7 @@ public class FlightController {
             return "redirect:/login";
         }
         String username = authentication.getName();
+        System.out.println("hello");
         TravelOffer bookedFlight = flightService.bookFlight(id, username);
         model.addAttribute("ticket", flightService.getFlightById(id));
         redirectAttributes.addAttribute("id", id);
